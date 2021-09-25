@@ -1,0 +1,15 @@
+{
+  "name": "osk",
+  "version": "1.0.0",
+  "description": "bot by Диктор [nn]",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "discord.js-selfbot": "^12.0.2"
+  }
+}
